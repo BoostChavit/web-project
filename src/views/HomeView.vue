@@ -1,6 +1,6 @@
 <template>
   <div>
-    <link rel="stylesheet" href="src/assets/style.css">
+    <link rel="stylesheet" href="../assets/style.css">
   <div class="ml-20 mt-20">
     <div> 
       <h1><font-awesome-icon icon="fa-solid fa-location-dot" class="mb-0.5 text-red-500 text-xl"/> <i class="text-xl text-transparent bg-clip-text bg-gradient-to-r from-green-200 via-green-400 to-green-500">KU81 CS36</i> </h1>  

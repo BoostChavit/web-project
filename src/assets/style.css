@@ -1,0 +1,28 @@
+/* CSS */
+#name{
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: monospace;
+    margin-left: 20px ;
+    margin-right: 20px;
+}
+#title{
+    color: white;
+    font-family: monospace;
+    font-size: 50px;
+    margin-left: 3% ;
+}
+#content{
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+body{
+    background-image: url(https://cdn.discordapp.com/attachments/1039193528166797365/1041350382770724907/bg3.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
